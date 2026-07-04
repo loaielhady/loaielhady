@@ -195,7 +195,7 @@ Now going beyond Docker Compose into container orchestration — learning Kubern
 |---|---|---|
 | 🎓 **B.Sc., Computer Science** | Faculty of Computer Science & IT, University of Sennar, Sudan | 2015 – 2022 |
 | 📜 **CCNA** (Cisco Certified Network Associate) | Networkat, Egypt | — |
-| 📜 **Microsoft Azure AZ-900** (Azure Fundamentals) | Microsoft | — |
+| 📜 **Microsoft Azure AZ-900** (Azure Fundamentals) | Microsoft | 2026 |
 | 📜 **AI Starter Kit** | ALX | — |
 | 🔄 **AWS Cloud Practitioner** | ALX *(in progress)* | — |
 | 🔄 **AWS Solutions Architect** | ALX *(in progress)* | — |
