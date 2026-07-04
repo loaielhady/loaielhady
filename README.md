@@ -145,7 +145,7 @@ Currently expanding into containerization (Docker), CI/CD pipelines, and AWS clo
 | **Infrastructure & OS** | Linux · Windows · Bash Scripting · Networking (Switch/Router Config) |
 | **Web & Databases** | Nginx · HAProxy · PostgreSQL · PgBouncer |
 | **Networking & Hardware** | Cabling · Rack Setup · CCTV Configuration · Network Mapping |
-| **Cloud & DevOps (in progress)** | AWS (Cloud Practitioner, Solutions Architect track) · Docker · CI/CD *(learning)* |
+| **Cloud & DevOps (in progress)** | Azure (AZ-900 certified) · AWS (Cloud Practitioner, Solutions Architect track) · Docker · CI/CD *(learning)* |
 | **Tools & Ops** | User Account Administration · Technical Documentation · Digital Records Management |
 
 ---
@@ -175,6 +175,7 @@ Currently expanding into containerization (Docker), CI/CD pipelines, and AWS clo
 |---|---|---|
 | 🎓 **B.Sc., Computer Science** | Faculty of Computer Science & IT, University of Sennar, Sudan | 2015 – 2022 |
 | 📜 **CCNA** (Cisco Certified Network Associate) | Networkat, Egypt | — |
+| 📜 **Microsoft Azure AZ-900** (Azure Fundamentals) | Microsoft | — |
 | 📜 **AI Starter Kit** | ALX | — |
 | 🔄 **AWS Cloud Practitioner** | ALX *(in progress)* | — |
 | 🔄 **AWS Solutions Architect** | ALX *(in progress)* | — |
