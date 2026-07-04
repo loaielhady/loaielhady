@@ -1,0 +1,201 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=Loai+Elhady;IT+Operations+Support+%E2%86%92+DevOps+Engineer;Linux+%7C+Networking+%7C+Automation+%7C+Cloud" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-elhady/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:looai.elhady@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaielhady)
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Tabuk,_Saudi_Arabia-0D1117?style=flat-square)
+![Focus](https://img.shields.io/badge/🎯_Targeting_DevOps-0D1117?style=flat-square)
+![Certs](https://img.shields.io/badge/☁️_AWS_%2B_ALX_In_Progress-0D1117?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=loaielhady&color=2EA043&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+Five years on the ground with hardware, networks, and IT operations before I started building automation and infrastructure skills on top of it. That hands-on foundation — cabling, routers, switches, printers, servers, 200+ machines kept running — is exactly why I care about infrastructure that doesn't break, and why I'm moving into **DevOps**.
+
+Currently working as a **Digital Services Officer** handling IT operations and digital records, while actively building out Linux, networking, and database automation skills through self-directed projects — and pursuing **AWS Cloud Practitioner / Solutions Architect** and **ALX** certifications.
+
+---
+
+## 🎯 The Shift: IT Ops → DevOps
+
+> *I didn't start in the cloud. I started under the desk, behind the rack, and on the phone with a printer that wouldn't feed paper — and I'm turning that operational discipline into infrastructure automation.*
+
+<div align="center">
+
+![Resolution](https://img.shields.io/badge/90%25%2B_First--Time_Fix_Rate-2EA043?style=flat-square)
+![Repairs](https://img.shields.io/badge/100%2B_Systems_Maintained-2EA043?style=flat-square)
+![Uptime](https://img.shields.io/badge/Zero_Data_Errors_%7C_3_Audit_Cycles-2EA043?style=flat-square)
+![Efficiency](https://img.shields.io/badge/25%25_Faster_Admin_Turnaround-2EA043?style=flat-square)
+
+</div>
+
+What I bring from IT Ops: patience under pressure, root-cause troubleshooting, documentation discipline, and respect for uptime. What I'm building now: the automation, scripting, and cloud skills to operate infrastructure at scale instead of one machine at a time.
+
+---
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Scripts_Bash_linux](https://github.com/loaielhady/Scripts_Bash_linux) — Linux Automation Scripts
+
+Bash scripting for everyday Linux administration: system checks, task automation, and repeatable ops workflows — the building blocks for CI/CD and infrastructure-as-code work ahead.
+
+`Bash` `Linux` `Shell Scripting` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### [Nginx](https://github.com/loaielhady/Ngnix) — Web Server Configuration
+
+Hands-on Nginx setup and configuration: reverse proxying, static content serving, and web server fundamentals for deploying and fronting applications.
+
+`Nginx` `Linux` `Web Server` `Reverse Proxy`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PostgreSQL](https://github.com/loaielhady/PostgreSQL) — Database Administration
+
+PostgreSQL installation, configuration, and administration practice — laying the groundwork for managing production data stores in a DevOps pipeline.
+
+`PostgreSQL` `Database Administration` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+### [Pgbouncer_with_Postgresql](https://github.com/loaielhady/Pgbouncer_with_Postgresql) — Connection Pooling
+
+PgBouncer configured in front of PostgreSQL to manage and pool database connections — a step toward understanding scalable, production-grade data infrastructure.
+
+`PgBouncer` `PostgreSQL` `Connection Pooling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [HAProxy](https://github.com/loaielhady/HAproxy) — Load Balancing
+
+Load balancer setup and configuration with HAProxy, exploring high availability and traffic distribution concepts core to resilient infrastructure.
+
+`HAProxy` `Load Balancing` `High Availability`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 Next Up
+
+Currently expanding into containerization (Docker), CI/CD pipelines, and AWS cloud services as part of the DevOps certification path.
+
+`Docker` `CI/CD` `AWS` *(in progress)*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### 🖥️ Digital Services Officer · Confidential Company, Tabuk, Saudi Arabia `2023 – Present`
+
+- Processed and submitted **200+** employee permit and account requests, ensuring accuracy and meeting internal deadlines
+- Managed digital employee records with **zero data entry errors** across three consecutive audit periods
+- Coordinated technical documentation for internal services, improving administrative turnaround time by **25%**
+- Maintained employee records across departments with **100% compliance** with data retention policies
+
+### 🛠️ IT & Printer Maintenance Assistant (Freelance & Contract) · Sudan `2019 – 2023`
+
+- Executed remote and on-site repairs for **100+** computers and printers, maintaining a **90%+** first-time resolution rate
+- Installed and configured **50+ CCTV systems** for residential and business clients
+- Delivered networking, cabling, and hardware field support across **30+** site visits
+- Supported **10+ government offices** and **20+ private companies**, reducing printer downtime by **40%** through preventive maintenance
+
+### 🖨️ Printer Maintenance Technician · INKMATE, Khartoum `2020`
+
+- Maintained **50+** high-volume printers, including ink system restoration and driver fixes
+- Achieved a **95%** printer function recovery rate on the first service visit
+
+### 💻 IT Technician (Intern → Technician) · Alfafa for Computers, Khartoum `2020`
+
+- Audited hardware and software across **120+** workstations, applying OS updates and security patches
+- Installed drivers, antivirus, and software for **80+** clients
+- Delivered networking setups (cabling, routers) for **15+** small office deployments
+
+---
+
+## 🛠️ Skills
+
+| Domain | Stack |
+|---|---|
+| **Infrastructure & OS** | Linux · Windows · Bash Scripting · Networking (Switch/Router Config) |
+| **Web & Databases** | Nginx · HAProxy · PostgreSQL · PgBouncer |
+| **Networking & Hardware** | Cabling · Rack Setup · CCTV Configuration · Network Mapping |
+| **Cloud & DevOps (in progress)** | AWS (Cloud Practitioner, Solutions Architect track) · Docker · CI/CD *(learning)* |
+| **Tools & Ops** | User Account Administration · Technical Documentation · Digital Records Management |
+
+---
+
+## 🔭 Currently
+
+- ☁️ **Studying for:** AWS Cloud Practitioner & Solutions Architect certifications
+- 📚 **Completing:** ALX Professional Foundation program
+- 🏗️ **Building:** Hands-on Linux, Nginx, PostgreSQL, and load-balancing projects to bridge IT Ops into DevOps
+- 🤝 **Open to:** Junior/Associate DevOps roles, Cloud Support, Site Reliability opportunities
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=loaielhady&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="80%"/>
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+| Credential | Institution | Year |
+|---|---|---|
+| 🎓 **B.Sc., Computer Science** | Faculty of Computer Science & IT, University of Sennar, Sudan | 2015 – 2022 |
+| 📜 **CCNA** (Cisco Certified Network Associate) | Networkat, Egypt | — |
+| 📜 **AI Starter Kit** | ALX | — |
+| 🔄 **AWS Cloud Practitioner** | ALX *(in progress)* | — |
+| 🔄 **AWS Solutions Architect** | ALX *(in progress)* | — |
+| 🔄 **Professional Foundation** | ALX *(in progress)* | — |
+
+**Languages:** Arabic (Native) · English (Good — Written & Spoken)
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+*5+ years in IT Operations. Now building the skills to run infrastructure at scale. Open to DevOps opportunities.*
+
+[![Email](https://img.shields.io/badge/looai.elhady@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:looai.elhady@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-elhady/)
+[![GitHub](https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaielhady)
+
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=loaielhady&color=2EA043&style=flat-square&label=Profile+Views)
+
+</div>
