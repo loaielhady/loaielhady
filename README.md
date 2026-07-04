@@ -174,7 +174,7 @@ Now going beyond Docker Compose into container orchestration — learning Kubern
 - 📚 **Completing:** ALX Professional Foundation program
 - 🚀 **Live project:** Main contributor to [SAiRCAMP MLOps](https://mlops123.duckdns.org/) — a production MLOps system running on a real VPS with CI/CD, Nginx, and SSL
 - 🏗️ **Learning next:** Kubernetes — moving from Docker Compose to full container orchestration
-- 🤝 **Open to:** Junior/Associate DevOps roles, Cloud Support, Site Reliability opportunities
+- 🤝 **Open to:** Associate DevOps roles, Cloud Support, Site Reliability opportunities
 
 ---
 
