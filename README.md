@@ -44,6 +44,24 @@ What I bring from IT Ops: patience under pressure, root-cause troubleshooting, d
 
 ## 🏗️ Featured Projects
 
+### 🚀 [SAiRCAMP MLOps](https://mlops123.duckdns.org/) — Live Production MLOps System *(Main Contributor)*
+
+An 8-module, project-based MLOps build — NYC Taxi trip-duration prediction taken from a raw notebook to a **secured, auto-deploying production system** on a real VPS. This is the flagship proof of the DevOps skills above, live and running:
+
+```
+GitHub push → GitHub Actions (CI/CD) → VPS deploy → nginx (HTTPS)
+                                                        ├── /        → dashboard
+                                                        ├── /api/    → online API
+                                                        ├── /batch/  → batch scoring API
+                                                        └── /mlflow/ → MLflow UI
+```
+
+**Live at:** [mlops123.duckdns.org](https://mlops123.duckdns.org/) — reverse-proxied through Nginx with SSL/Certbot, deployed via GitHub Actions CI/CD, served over Docker Compose (FastAPI + Streamlit + MLflow), with drift monitoring on real 2019–2024 NYC TLC data.
+
+`Docker Compose` `Nginx` `SSL/Certbot` `GitHub Actions CI/CD` `FastAPI` `MLflow` `Prefect` `VPS Deployment` `Drift Monitoring`
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -97,11 +115,11 @@ Load balancer setup and configuration with HAProxy, exploring high availability 
 </td>
 <td width="50%" valign="top">
 
-### 🚧 Next Up
+### 🚧 Next Up: Kubernetes
 
-Currently expanding into containerization (Docker), CI/CD pipelines, and AWS cloud services as part of the DevOps certification path.
+Now going beyond Docker Compose into container orchestration — learning Kubernetes to take the SAiRCAMP MLOps system from a single VPS to a properly orchestrated, scalable deployment.
 
-`Docker` `CI/CD` `AWS` *(in progress)*
+`Kubernetes` `Container Orchestration` *(in progress)*
 
 </td>
 </tr>
@@ -145,7 +163,7 @@ Currently expanding into containerization (Docker), CI/CD pipelines, and AWS clo
 | **Infrastructure & OS** | Linux · Windows · Bash Scripting · Networking (Switch/Router Config) |
 | **Web & Databases** | Nginx · HAProxy · PostgreSQL · PgBouncer |
 | **Networking & Hardware** | Cabling · Rack Setup · CCTV Configuration · Network Mapping |
-| **Cloud & DevOps (in progress)** | Azure (AZ-900 certified) · AWS (Cloud Practitioner, Solutions Architect track) · Docker · CI/CD *(learning)* |
+| **Cloud & DevOps** | Docker & Docker Compose · Nginx · GitHub Actions (CI/CD) · SSL/Certbot · MLflow · Prefect · Azure (AZ-900 certified) · AWS *(Cloud Practitioner / Solutions Architect track)* |
 | **Tools & Ops** | User Account Administration · Technical Documentation · Digital Records Management |
 
 ---
@@ -154,7 +172,8 @@ Currently expanding into containerization (Docker), CI/CD pipelines, and AWS clo
 
 - ☁️ **Studying for:** AWS Cloud Practitioner & Solutions Architect certifications
 - 📚 **Completing:** ALX Professional Foundation program
-- 🏗️ **Building:** Hands-on Linux, Nginx, PostgreSQL, and load-balancing projects to bridge IT Ops into DevOps
+- 🚀 **Live project:** Main contributor to [SAiRCAMP MLOps](https://mlops123.duckdns.org/) — a production MLOps system running on a real VPS with CI/CD, Nginx, and SSL
+- 🏗️ **Learning next:** Kubernetes — moving from Docker Compose to full container orchestration
 - 🤝 **Open to:** Junior/Associate DevOps roles, Cloud Support, Site Reliability opportunities
 
 ---
