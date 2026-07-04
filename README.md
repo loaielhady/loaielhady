@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=Loai+Elhady;IT+Operations+Support+%E2%86%92+DevOps+Engineer;Linux+%7C+Networking+%7C+Automation+%7C+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&lines=Loai+Elhady;CS+Graduate+%7C+IT+Ops+%E2%86%92+DevOps+Engineer;Linux+%7C+Networking+%7C+Automation+%7C+Cloud" alt="Typing SVG" />
 
 <br/>
 
@@ -11,6 +11,7 @@
 <br/>
 
 ![Location](https://img.shields.io/badge/📍_Tabuk,_Saudi_Arabia-0D1117?style=flat-square)
+![Degree](https://img.shields.io/badge/🎓_B.Sc._Computer_Science-0D1117?style=flat-square)
 ![Focus](https://img.shields.io/badge/🎯_Targeting_DevOps-0D1117?style=flat-square)
 ![Certs](https://img.shields.io/badge/☁️_AWS_%2B_ALX_In_Progress-0D1117?style=flat-square)
 ![Views](https://komarev.com/ghpvc/?username=loaielhady&color=2EA043&style=flat-square&label=Profile+Views)
@@ -19,15 +20,15 @@
 
 ---
 
-Five years on the ground with hardware, networks, and IT operations before I started building automation and infrastructure skills on top of it. That hands-on foundation — cabling, routers, switches, printers, servers, 200+ machines kept running — is exactly why I care about infrastructure that doesn't break, and why I'm moving into **DevOps**.
+A **Computer Science graduate** who spent five years getting hands-on with the hardware, networks, and systems that theory only describes. That combination — a CS foundation plus real operational experience — is exactly what DevOps is: the engineering discipline built at the intersection of software and infrastructure.
 
-Currently working as a **Digital Services Officer** handling IT operations and digital records, while actively building out Linux, networking, and database automation skills through self-directed projects — and pursuing **AWS Cloud Practitioner / Solutions Architect** and **ALX** certifications.
+Currently working as a **Digital Services Officer** handling IT operations and digital records, while building out Linux, networking, and database automation skills through self-directed projects — and pursuing **AWS Cloud Practitioner / Solutions Architect** and **ALX** certifications to formalize the move into DevOps.
 
 ---
 
-## 🎯 The Shift: IT Ops → DevOps
+## 🎯 A Natural Progression: CS Degree + IT Ops → DevOps
 
-> *I didn't start in the cloud. I started under the desk, behind the rack, and on the phone with a printer that wouldn't feed paper — and I'm turning that operational discipline into infrastructure automation.*
+> *DevOps isn't a career change for me — it's where my Computer Science degree and my years running networks, systems, and infrastructure were always headed.*
 
 <div align="center">
 
@@ -38,7 +39,7 @@ Currently working as a **Digital Services Officer** handling IT operations and d
 
 </div>
 
-What I bring from IT Ops: patience under pressure, root-cause troubleshooting, documentation discipline, and respect for uptime. What I'm building now: the automation, scripting, and cloud skills to operate infrastructure at scale instead of one machine at a time.
+What I bring together: a **Computer Science degree** (algorithms, systems, software fundamentals) and **5 years of IT operations** (patience under pressure, root-cause troubleshooting, documentation discipline, respect for uptime). DevOps is the discipline that needs exactly both — which is why this transition isn't a leap, it's a fit.
 
 ---
 
@@ -174,7 +175,7 @@ Now going beyond Docker Compose into container orchestration — learning Kubern
 - 📚 **Completing:** ALX Professional Foundation program
 - 🚀 **Live project:** Main contributor to [SAiRCAMP MLOps](https://mlops123.duckdns.org/) — a production MLOps system running on a real VPS with CI/CD, Nginx, and SSL
 - 🏗️ **Learning next:** Kubernetes — moving from Docker Compose to full container orchestration
-- 🤝 **Open to:** Associate DevOps roles, Cloud Support, Site Reliability opportunities
+- 🤝 **Open to:** Junior/Associate DevOps roles, Cloud Support, Site Reliability opportunities
 
 ---
 
@@ -208,7 +209,7 @@ Now going beyond Docker Compose into container orchestration — learning Kubern
 
 <div align="center">
 
-*5+ years in IT Operations. Now building the skills to run infrastructure at scale. Open to DevOps opportunities.*
+*Computer Science graduate with 5+ years in IT Operations. Now building the skills to run infrastructure at scale. Open to DevOps opportunities.*
 
 [![Email](https://img.shields.io/badge/looai.elhady@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:looai.elhady@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-elhady/)
