@@ -20,7 +20,7 @@
 
 ---
 
-A **Computer Science graduate** who spent five years getting hands-on with the hardware, networks, and systems that theory only describes. That combination — a CS foundation plus real operational experience — is exactly what DevOps is: the engineering discipline built at the intersection of software and infrastructure.
+A **Computer Science ** who spent five years getting hands-on with the hardware, networks, and systems that theory only describes. That combination — a CS foundation plus real operational experience — is exactly what DevOps is: the engineering discipline built at the intersection of software and infrastructure.
 
 Currently working as a **Digital Services Officer** handling IT operations and digital records, while building out Linux, networking, and database automation skills through self-directed projects — and pursuing **AWS Cloud Practitioner / Solutions Architect** and **ALX** certifications to formalize the move into DevOps.
 
